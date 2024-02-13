@@ -1,10 +1,10 @@
-## Tema POO
+# Tema POO
 
-# Nume: Samson Alexandru-Valentin
-# Grupa: 322CC
+## Nume: Samson Alexandru-Valentin
+## Grupa: 322CC
 
-# Grad de dificultate: Mediu spre dificil
-# Timp alocat rezolvarii: 37 de zile (aproximativ)
+## Grad de dificultate: Mediu spre dificil
+## Timp alocat rezolvarii: 37 de zile (aproximativ)
 
 * Mod de implementare: pe langa clasele din cerinta, am adaugat clasa Main din care incepe
 programul, ProductionFactory care functioneaza la fel care UserFactory doar ca pentru productii,
