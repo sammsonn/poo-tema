@@ -1,0 +1,4 @@
+{"createdDate":"2023-09-15T10:00","requestType":"DELETE_ACCOUNT","description":"I want to delete my account.","to":"ADMIN","username":"jessica_miller_1213"}
+{"createdDate":"2023-09-14T15:30","requestType":"ACTOR_ISSUE","description":"There's missing information for Tom Hanks. He is also a filmmaker.","to":"laura_williams_1617","username":"daniel_smith_2627"}
+{"createdDate":"2023-09-13T14:45","requestType":"MOVIE_ISSUE","description":"There's an error in the Inception movie details.The duration of the movie is 148 minutes.","to":"natalie_brown_2021","username":"benjamin_taylor_3435"}
+{"createdDate":"2023-09-12T09:20","requestType":"OTHERS","description":"Please add the movie Titanic.","to":"ADMIN","username":"olivia_taylor_2425"}

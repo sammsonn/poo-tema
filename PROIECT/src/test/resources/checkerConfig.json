@@ -1,0 +1,28 @@
+{
+  "singletons": [
+    "org.example.IMDB"
+  ],
+  "builders": [
+    {
+      "builder" : "org.example.User$Information$InformationBuilder",
+      "built" : "org.example.User$Information"
+    }
+  ],
+  "factories": [
+    {
+      "name": "org.example.UserFactory",
+      "enum": "org.example.AccountType"
+    }
+  ],
+  "observers": [
+    {
+      "observers": [
+        "org.example.User"
+      ],
+      "subjects": [
+        "org.example.Request",
+        "org.example.Rating"
+      ]
+    }
+  ]
+}
